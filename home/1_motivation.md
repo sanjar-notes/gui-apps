@@ -17,3 +17,9 @@ This repo is therefore a simple effort to study and implement various GUIs, and 
 
 Hopefully, after understanding this within 2 years, I can then think intuitively about producing any software that I require, of course after working on the computation research.
 
+---
+
+There are some questions though:
+1. Is HTML, CSS and JavaScript graphically 'Turing complete', , i.e. can all GUIs be made using it.
+2. Is HTML, CSS and JS performant - I guess yes.
+3. Mobile apps - well battery optimization is a key problem here.
